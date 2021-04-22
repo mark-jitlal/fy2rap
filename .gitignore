@@ -44,3 +44,6 @@ docs/
 # translation temp files
 po/*~
 
+# Don't ignore:
+!fake_fy2.csv
+!fake_fy2.RData
