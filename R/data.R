@@ -12,3 +12,4 @@
 #'   \item{food_sec}{Food security: High; Marginal; Low; Very low}
 #' }
 "fy2"
+NULL
