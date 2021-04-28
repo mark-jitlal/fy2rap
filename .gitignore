@@ -48,5 +48,5 @@ po/*~
 !fake_fy2.csv
 !fake_fy2.RData
 #!data.R
-!fy2_data.R
+#!fy2_data.R
 #!install_fy2rap.R
