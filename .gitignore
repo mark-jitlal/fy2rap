@@ -47,6 +47,6 @@ po/*~
 # Don't ignore:
 !fake_fy2.csv
 !fake_fy2.RData
-!data.R
+#!data.R
 !fy2_data.R
-!install_fy2rap.R
+#!install_fy2rap.R
