@@ -12,4 +12,4 @@
 #'   \item{food_sec}{Food security: High; Marginal; Low; Very low}
 #' }
 "fy2"
-NULL
+NULL   # this line did not allow the fy2_data function to be read in correctly from GitHub.
